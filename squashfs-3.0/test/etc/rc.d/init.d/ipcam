@@ -1,0 +1,21 @@
+#!/bin/sh
+#
+#  ipcam - start ipcam demo set
+# 
+
+RETVAL=0
+
+umask 077
+
+case "$1" in
+  start)
+	mkdir /var/etc/ppp
+	/sbin/pppoe_monitor &
+
+	RETVAL=$?
+	echo 
+	exit $RETVAL
+	;;
+  stop)
+	echo 
+esac

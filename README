@@ -1,0 +1,27 @@
+To begin modifying your firmware, you must first compile (or, alternatively, install)
+the appropriate tools. Do the following:
+
+cd squashfs-3.0/
+./configure
+make
+cd ../tools/
+gcc AppendChecksum.c -o AppendChecksum
+
+Now your extract/build environment should be ready.
+
+To extract firmware, simply run ./extract_image.sh IMAGE DEST_PATH
+
+This will create three directories in your DEST_PATH: original_images,
+squashfs_root, and temp_files. Generally, you will only need to modify
+squashfs_root. This is your root filesystem. Place/modify any files you
+wish here, and they will be compiled into the final image.
+
+If you need to compile applications for the camera, a cross compilation toolchain
+provided by Edimax can be found in the tools/ directory.
+
+To rebuild after making changes, simply run ./build_image.sh SRC_PATH DST_IMAGE
+
+Then, simply flash the device as you normally would.
+
+WARNING: Flashing is inherently dangerous. I am not responsible if you brick
+your camera. These tools have worked well for me, but I offer no guarantees.

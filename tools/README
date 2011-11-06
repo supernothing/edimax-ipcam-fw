@@ -1,0 +1,9 @@
+This contains files taken from Edimax's open source release.
+
+uc_arm contains the cross compiler toolchain. This can be used
+to compile pretty much anything you need for the device.
+
+AppendChecksum is used to calculate a simple checksum used by
+the firmware image. Before you can compile a valid image, you
+must compile this as follows:
+gcc AppendChecksum.c -o AppendChecksum

@@ -1,0 +1,38 @@
+#!/bin/sh
+# 
+# sysdriver: launch system driver
+#
+
+RETVAL=0
+
+umask 077
+
+case "$1" in
+  start)
+	echo $"Starting encoder driver module: ---->"
+	/sbin/insmod /lib/modules/plmedia.o g_szEncIBuff=1280x1024x2+1024x768x1+320x240x1 g_szGBBuffSize=1280x1024 g_nGBBuffNum=4 g_nGBCtrlFPS=1
+	/sbin/insmod /lib/modules/crypt.o
+	/sbin/insmod /lib/modules/led_ctrl.o
+	/sbin/insmod /lib/modules/pt.o
+	/sbin/insmod /lib/modules/freemem.o
+	echo $"Starting wireless driver module: ---->"
+	echo $"Starting ethernet driver module: ---->"
+        #/sbin/insmod /lib/modules/mii.o
+        #/sbin/insmod /lib/modules/8139too.o
+	/sbin/insmod /lib/modules/sundance.o
+	echo $"Starting USB OTG ramdisk driver module: ---->"
+	/sbin/insmod /lib/modules/plstorage.o ro=1
+
+	cp /etc/RT2870STA.dat /tmp
+	#echo "Starting init.sh..."
+	#/bin/init.sh
+	/sbin/insmod /lib/modules/rt3070sta.o
+	/sbin/insmod /lib/modules/rt3572sta.o
+
+	RETVAL=$?
+	echo 
+	exit $RETVAL
+	;;
+  stop)
+	# donthing
+esac
