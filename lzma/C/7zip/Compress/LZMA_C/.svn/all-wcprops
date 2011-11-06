@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZMA_C
+END
+LzmaDecodeSize.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZMA_C/LzmaDecodeSize.c
+END
+LzmaTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZMA_C/LzmaTest.c
+END
+LzmaStateTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZMA_C/LzmaStateTest.c
+END
+makefile.gcc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZMA_C/makefile.gcc
+END
+LzmaDecode.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZMA_C/LzmaDecode.c
+END
+LzmaStateDecode.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZMA_C/LzmaStateDecode.c
+END
+LzmaDecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZMA_C/LzmaDecode.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZMA_C/makefile
+END
+LzmaStateDecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZMA_C/LzmaStateDecode.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/40/trunk/trunk/src/lzma/Java/SevenZip/Compression/RangeCoder
+END
+Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/40/trunk/trunk/src/lzma/Java/SevenZip/Compression/RangeCoder/Encoder.java
+END
+BitTreeDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/40/trunk/trunk/src/lzma/Java/SevenZip/Compression/RangeCoder/BitTreeDecoder.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/40/trunk/trunk/src/lzma/Java/SevenZip/Compression/RangeCoder/Decoder.java
+END
+BitTreeEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/40/trunk/trunk/src/lzma/Java/SevenZip/Compression/RangeCoder/BitTreeEncoder.java
+END

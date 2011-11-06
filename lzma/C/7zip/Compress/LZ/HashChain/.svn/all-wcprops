@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/HashChain
+END
+HC.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/HashChain/HC.h
+END
+HC2.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/HashChain/HC2.h
+END
+HC3.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/HashChain/HC3.h
+END
+HC4.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/HashChain/HC4.h
+END
+HCMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/HashChain/HCMain.h
+END
+HC4b.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/HashChain/HC4b.h
+END

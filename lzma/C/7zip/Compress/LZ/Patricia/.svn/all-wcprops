@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/Patricia
+END
+PatMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/Patricia/PatMain.h
+END
+Pat2H.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/Patricia/Pat2H.h
+END
+Pat3H.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/Patricia/Pat3H.h
+END
+Pat4H.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/Patricia/Pat4H.h
+END
+Pat.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/Patricia/Pat.h
+END
+Pat2.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/Patricia/Pat2.h
+END
+Pat2R.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/Patricia/Pat2R.h
+END

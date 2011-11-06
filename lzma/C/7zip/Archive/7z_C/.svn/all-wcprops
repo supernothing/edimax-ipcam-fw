@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C
+END
+7zBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zBuffer.h
+END
+7zExtract.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zExtract.h
+END
+7zDecode.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zDecode.c
+END
+7zMain.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zMain.c
+END
+7z_C.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7z_C.dsp
+END
+7zDecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zDecode.h
+END
+7zHeader.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zHeader.c
+END
+7zAlloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zAlloc.c
+END
+7z_C.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7z_C.dsw
+END
+7zMethodID.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zMethodID.c
+END
+7zHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zHeader.h
+END
+7zItem.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zItem.c
+END
+7zAlloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zAlloc.h
+END
+7zMethodID.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zMethodID.h
+END
+7zItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zItem.h
+END
+makefile.gcc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/makefile.gcc
+END
+7zIn.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zIn.c
+END
+7zCrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zCrc.c
+END
+7zTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zTypes.h
+END
+7zBuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zBuffer.c
+END
+7zExtract.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zExtract.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/makefile
+END
+7zIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zIn.h
+END
+7zCrc.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Archive/7z_C/7zCrc.h
+END

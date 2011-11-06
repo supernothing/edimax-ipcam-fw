@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/StdAfx.h
+END
+Alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/Alloc.h
+END
+Vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/Vector.cpp
+END
+CommandLineParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/CommandLineParser.cpp
+END
+MyWindows.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/MyWindows.h
+END
+String.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/String.cpp
+END
+StringConvert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/StringConvert.cpp
+END
+CRC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/CRC.cpp
+END
+Vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/Vector.h
+END
+CommandLineParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/CommandLineParser.h
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/Types.h
+END
+C_FileIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/C_FileIO.cpp
+END
+MyUnknown.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/MyUnknown.h
+END
+String.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/String.h
+END
+CRC.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/CRC.h
+END
+StringConvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/StringConvert.h
+END
+C_FileIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/C_FileIO.h
+END
+ComTry.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/ComTry.h
+END
+MyGuidDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/MyGuidDef.h
+END
+StringToInt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/StringToInt.cpp
+END
+Defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/Defs.h
+END
+NewHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/NewHandler.cpp
+END
+MyInitGuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/MyInitGuid.h
+END
+StringToInt.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/StringToInt.h
+END
+MyCom.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/MyCom.h
+END
+Alloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/Alloc.cpp
+END
+NewHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/Common/NewHandler.h
+END

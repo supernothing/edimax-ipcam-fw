@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/trunk/src/lzma/Java/SevenZip/Compression/LZMA
+END
+Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/40/trunk/trunk/src/lzma/Java/SevenZip/Compression/LZMA/Encoder.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/40/trunk/trunk/src/lzma/Java/SevenZip/Compression/LZMA/Decoder.java
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/40/trunk/trunk/src/lzma/Java/SevenZip/Compression/LZMA/Base.java
+END

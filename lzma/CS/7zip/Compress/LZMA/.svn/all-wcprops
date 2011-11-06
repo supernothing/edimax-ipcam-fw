@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/trunk/src/lzma/CS/7zip/Compress/LZMA
+END
+LzmaBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/trunk/src/lzma/CS/7zip/Compress/LZMA/LzmaBase.cs
+END
+LzmaEncoder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/40/trunk/trunk/src/lzma/CS/7zip/Compress/LZMA/LzmaEncoder.cs
+END
+LzmaDecoder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/40/trunk/trunk/src/lzma/CS/7zip/Compress/LZMA/LzmaDecoder.cs
+END

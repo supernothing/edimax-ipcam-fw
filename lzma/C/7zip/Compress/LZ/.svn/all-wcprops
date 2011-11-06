@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/StdAfx.h
+END
+IMatchFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/IMatchFinder.h
+END
+LZInWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/LZInWindow.cpp
+END
+LZOutWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/LZOutWindow.cpp
+END
+LZInWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/LZInWindow.h
+END
+LZOutWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZ/LZOutWindow.h
+END

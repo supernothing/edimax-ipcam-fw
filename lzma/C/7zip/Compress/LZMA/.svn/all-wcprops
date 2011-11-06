@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZMA
+END
+LZMADecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZMA/LZMADecoder.h
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZMA/StdAfx.h
+END
+LZMAEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZMA/LZMAEncoder.cpp
+END
+LZMAEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZMA/LZMAEncoder.h
+END
+LZMA.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZMA/LZMA.h
+END
+LZMADecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/40/trunk/trunk/src/lzma/C/7zip/Compress/LZMA/LZMADecoder.cpp
+END

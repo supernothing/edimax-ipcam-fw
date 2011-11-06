@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/trunk/src/lzma/CS/7zip/Common
+END
+InBuffer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/40/trunk/trunk/src/lzma/CS/7zip/Common/InBuffer.cs
+END
+OutBuffer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/trunk/trunk/src/lzma/CS/7zip/Common/OutBuffer.cs
+END
+CommandLineParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/trunk/src/lzma/CS/7zip/Common/CommandLineParser.cs
+END
+CRC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/trunk/src/lzma/CS/7zip/Common/CRC.cs
+END
