@@ -1,3 +1,4 @@
+================ USAGE ======================
 To begin modifying your firmware, you must first compile (or, alternatively, install)
 the appropriate tools. Do the following:
 
@@ -25,3 +26,6 @@ Then, simply flash the device as you normally would.
 
 WARNING: Flashing is inherently dangerous. I am not responsible if you brick
 your camera. These tools have worked well for me, but I offer no guarantees.
+
+If you have problems or would like to submit patches/new features, please
+contact me at supernothing 4t spareclockcycles d0t org. Enjoy!
